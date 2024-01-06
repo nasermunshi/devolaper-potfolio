@@ -188,3 +188,18 @@ footer{
 .footer-column{
     width: 50%;
 }
+.contact input,[type="text"], .contact input[type="email"],
+
+.contact input, textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 25px;
+    color:  #757575;
+    border-radius: 5px;
+    background: v #FFF;
+    border: 0;
+    width: 100%;
+}
+.social-links a{
+   margin-right: 25px; 
+}
